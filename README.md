@@ -1,4 +1,4 @@
-final pages [here](https://strongdan.github.io/BootstrapPortfolioProject/)
+* Final page [here](https://strongdan.github.io/BootstrapPortfolioProject/)
 
 # Build a Portfolio Using Bootstrap
 
